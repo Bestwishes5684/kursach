@@ -1,0 +1,17 @@
+D:\dsada\Kursovya_rabota\bin\Debug\Kursovya_rabota.exe.config
+D:\dsada\Kursovya_rabota\bin\Debug\Kursovya_rabota.exe
+D:\dsada\Kursovya_rabota\bin\Debug\Kursovya_rabota.pdb
+D:\dsada\Kursovya_rabota\obj\Debug\Kursovya_rabota.csproj.AssemblyReference.cache
+D:\dsada\Kursovya_rabota\obj\Debug\Kursovya_rabota.csproj.SuggestedBindingRedirects.cache
+D:\dsada\Kursovya_rabota\obj\Debug\Kursovya_rabota.GLMENU.resources
+D:\dsada\Kursovya_rabota\obj\Debug\Kursovya_rabota.Properties.Resources.resources
+D:\dsada\Kursovya_rabota\obj\Debug\Kursovya_rabota.csproj.GenerateResource.cache
+D:\dsada\Kursovya_rabota\obj\Debug\Kursovya_rabota.csproj.CoreCompileInputs.cache
+D:\dsada\Kursovya_rabota\obj\Debug\Kursovya_rabota.exe
+D:\dsada\Kursovya_rabota\obj\Debug\Kursovya_rabota.pdb
+D:\dsada\Kursovya_rabota\obj\Debug\Kursovya_rabota.login.resources
+D:\dsada\Kursovya_rabota\obj\Debug\Kursovya_rabota.FORMS.SptotINV.resources
+D:\dsada\Kursovya_rabota\obj\Debug\Kursovya_rabota.FORMS.DobINV.resources
+D:\dsada\Kursovya_rabota\obj\Debug\Kursovya_rabota.csproj.ResolveComReference.cache
+D:\dsada\Kursovya_rabota\obj\Debug\Kursovya_rabota.FORMS.Klient.resources
+D:\dsada\Kursovya_rabota\obj\Debug\Kursovya_rabota.FORMS.DobKlient.resources
